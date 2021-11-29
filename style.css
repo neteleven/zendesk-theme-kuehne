@@ -956,7 +956,7 @@ ul {
 .breadcrumbs li {
   color: lighten($text_color, 20%);
   display: inline;
-  font-size: 1.2 em;
+  font-size: 1.2em;
   max-width: 450px;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -1472,7 +1472,7 @@ ul {
 }
 
 .article-list-item {
-  font-size: 1.5 em;
+  font-size: 1.5em;
   padding: 15px 0;
 }
 
