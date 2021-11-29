@@ -77,7 +77,7 @@ article-list-item {
   font-size: 20px;
 }
 
-article-list-item li {
+li.article-list-item {
   margin-bottom: 0px
 }
 
