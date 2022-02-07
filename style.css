@@ -873,7 +873,7 @@ input[type="submit"][disabled] {
     border: 0;
     color: $link_color;
     display: none;
-    font-size: 25px;
+    font-size: 15px;
     padding: 0 20px 0 0;
     width: auto;
 }
@@ -1669,7 +1669,7 @@ input[type="submit"][disabled] {
 }
 
 .article-list-item {
-    font-size: 1.5em;
+    font-size: 1.0em;
     padding: 8px 0;
 }
 
@@ -2021,7 +2021,7 @@ input[type="submit"][disabled] {
     display: block;
     margin-bottom: 10px;
     padding: 10px;
-    font-size: 23px;
+    font-size: 15px;
 }
 
 .sidenav-item.current-article,
