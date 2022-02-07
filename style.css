@@ -206,7 +206,7 @@ body {
     background-color: $background_color;
     color: $text_color;
     font-family: 'TheSerifSemilight', serif;
-    font-size: 20px;
+    font-size: 18px;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
 }
@@ -873,7 +873,7 @@ input[type="submit"][disabled] {
     border: 0;
     color: $link_color;
     display: none;
-    font-size: 15px;
+    font-size: 18px;
     padding: 0 20px 0 0;
     width: auto;
 }
@@ -1107,7 +1107,7 @@ input[type="submit"][disabled] {
     }
 }
 
-.footer-language-selector button {
+..kue-footer__footer-nav .footer-nav__nav li a-language-selector button {
     color: lighten($text_color, 20%);
     display: inline-block;
 }
